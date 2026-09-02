@@ -91,27 +91,24 @@ The relay consists of:
 - Simscape Electrical
 
 ## 📁 Repository Structure
-
-    Three-Phase-Fault-Protection-Simulink/
-    │
-    ├── README.md
-    │
-    ├── Simulink/
-    │   └── ThreePhaseFault.slx
-    │
-    ├── Results/
-    │   ├── LG_Fault_Current.png
-    │   ├── LG_Fault_Voltage.png
-    │   ├── LLG_Fault_Current.png
-    │   ├── LLG_Fault_Voltage.png
-    │   ├── LLL_Fault_Current.png
-    │   └── LLL_Fault_Voltage.png
-    │
-    ├── Relay/
-    │   └── OverCurrentRelay.png
-    │
-    └── Model/
-        └── ThreePhaseFault.png
+Three-Phase-Fault-Protection-Simulink/
+│
+├── Images/
+│   ├── OverCurrentRelay.png
+│   └── ThreePhaseFault.png
+│
+├── Results/
+│   ├── LG_Fault_Current.png
+│   ├── LG_Fault_Voltage.png
+│   ├── LLG_Fault_Current.png
+│   ├── LLG_Fault_Voltage.png
+│   ├── LLL_Fault_Current.png
+│   └── LLL_Fault_Voltage.png
+│
+├── Simulink_model/
+│   └── ThreePhaseFault.slx
+│
+└── README.md
 
 ## 👩‍💻 Author
 
