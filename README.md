@@ -78,11 +78,11 @@ The relay consists of:
 
 ## Project Model
 
-![Three Phase Fault Model](Model/ThreePhaseFault.png)
+![Three Phase Fault Model](Images/ThreePhaseFault.png)
 
 ## Relay Subsystem
 
-![Overcurrent Relay](Relay/OverCurrentRelay.png)
+![Overcurrent Relay](Images/OverCurrentRelay.png)
 
 ## Software Used
 
