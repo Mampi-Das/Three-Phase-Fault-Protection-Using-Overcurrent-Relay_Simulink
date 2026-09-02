@@ -91,6 +91,8 @@ The relay consists of:
 - Simscape Electrical
 
 ## 📁 Repository Structure
+
+```text
 Three-Phase-Fault-Protection-Simulink/
 │
 ├── Images/
@@ -109,6 +111,7 @@ Three-Phase-Fault-Protection-Simulink/
 │   └── ThreePhaseFault.slx
 │
 └── README.md
+```
 
 ## 👩‍💻 Author
 
