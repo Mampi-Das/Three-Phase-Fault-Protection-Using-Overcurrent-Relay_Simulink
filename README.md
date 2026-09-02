@@ -2,7 +2,7 @@
 
 MATLAB/Simulink project for studying different faults in a three-phase power system and their detection using an overcurrent relay.
 
-##📌 Project Overview
+## 📌 Project Overview
 
 The model consists of:
 
@@ -16,7 +16,7 @@ The model consists of:
 
 The relay monitors the phase currents and compares the RMS current with a predefined threshold. When an overcurrent condition is detected, a trip signal is generated.
 
-##🎯 Objective
+## 🎯 Objective
 
 - To model a three-phase power system in MATLAB/Simulink.
 - To simulate different types of faults.
